@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 704px;
+    height: 86px;
+    font-size: 72px;
+    text-align: center;
+}
+
+#cosmos {
+    width: 1220px;
+    height: 64px;
+    font-size: 24px;
+    margin-top: 53px;
+    text-align: center;
+    color: #FF8000;
+}
+
+#bigbang {
+    margin-left: 67px;
+}
+
+#theory {
+    width: 681px;
+    height: 48px;
+    color: #D9AE00;
+    margin-top: 63px;
+}
+
+#evolution {
+    width: 681px;
+    height: 145px;
+    font-size: 24px;
+    color: #6D81B4;
+    margin-top: 24px;
+}
+
+#stones {
+    width: 696px;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#orangegalaxy {
+    margin-left: 74px;
+    background-color: #FFCEBE;
+    width: 1007px;
+    height: 717px;
+    text-align: center;
+    padding: 64px;
+    margin-top: 24px;
+    border-right: solid #FF0000 2px;
+    border-bottom: solid #FF0000 2px; 
+    border-left: solid #000000 2px;
+    border-top: solid #000000 2px;
+    padding-top: 64px;
+}
+
+#blackhole {
+    font-size: 40px; 
+    color: #F44E50;
+    text-align: center;
+}
+
+#holescollapse {
+    font-size: 20px;
+    color: #8B2B2C;
+    margin-top: 24px;
+    width: 681px;
+    height: 72px;
+    text-align: center;
+} 
+
+#galaxy {
+    width: 879px;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#crystals {
+    margin-left: 74px;
+    margin-top: 30px;
+    text-align: right;
+}
+
+#string {
+    width: 696px;
+    height: 48px;
+    color: #4716E4;
+}
+
+#stringtheory {
+    color: #616161;
+    width: 696px;
+    height: 222px; 
+    background-color: #FFC1E3;
+    border: solid #FF5DA3;
+    padding: 24px;
+    font-size: 24px;
+}
+
+#points {
+    color: #414651;
+    font-size: 24px;
+    margin-left: 74px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+#description {
+    display: inline-block;
+    width: 668px;
+    height: 72px;
+    font-size: 16px;
+    color: #C27512;
+}
+
+#unified {
+    margin-left: 74px;
+}
+
+#figures {
+    width: 696px;
+    height: 415px;
+    margin-left: 74px;
+    margin-top: 30px;
+}
